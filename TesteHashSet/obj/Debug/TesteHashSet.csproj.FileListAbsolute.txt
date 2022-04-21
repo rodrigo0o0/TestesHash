@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\TesteHashSet\TesteHashSet\bin\Debug\TesteHashSet.exe.config
+C:\Users\sande\source\repos\TesteHashSet\TesteHashSet\bin\Debug\TesteHashSet.exe
+C:\Users\sande\source\repos\TesteHashSet\TesteHashSet\bin\Debug\TesteHashSet.pdb
+C:\Users\sande\source\repos\TesteHashSet\TesteHashSet\obj\Debug\TesteHashSet.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\TesteHashSet\TesteHashSet\obj\Debug\TesteHashSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\TesteHashSet\TesteHashSet\obj\Debug\TesteHashSet.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\TesteHashSet\TesteHashSet\obj\Debug\TesteHashSet.exe
+C:\Users\sande\source\repos\TesteHashSet\TesteHashSet\obj\Debug\TesteHashSet.pdb
